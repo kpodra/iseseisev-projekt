@@ -2,11 +2,11 @@ Raamaturiiul
 ======
 Autorid: Kati Põdra & 
 
-### Ekraanitõmmist Rakendusest
+### Ekraanitõmmis Rakendusest
 
 ![](screenshot.png)
 
-### Rakenduse Funktsionaalsuse Kirjeldust
+### Rakenduse Funktsionaalsuse Kirjeldus
 
 Rakendus koosneb kolmest peamisest funktsionaalsest komponendist.
 
