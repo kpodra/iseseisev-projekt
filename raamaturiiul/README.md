@@ -1,6 +1,6 @@
 Raamaturiiul
 ======
-Autor: Kati Põdra
+Autorid: Kati Põdra & 
 
 ### Ekraanitõmmist Rakendusest
 
