@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bookshelf App</title>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" charset="utf-8">
+</head>
+<body>
+<div class="container">
+    <p>
+        <label for="new-book">Add Book</label>
+
+        <input id="new-book-name" type="text" placeholder="Book Name" required>
+        <br>
+        <br>
+
+        <input id="new-book-pages-amount" type="text" placeholder="Amount Of Pages">
+        <br>
+        <br>
+
+        <input id="new-book-current-page" type="text" placeholder="Current Page">
+        <br>
+        <br>
+
+    <div>
+        <button>Add</button>
+    </div>
+    </p>
+
+    <h3>Books in progress</h3>
+    <ul id="incomplete-books">
+
+    </ul>
+
+    <h3>Completed books</h3>
+    <ul id="completed-books">
+
+    </ul>
+</div>
+
+<script type="module" src="js/app.js"></script>
+
+</body>
+</html>
