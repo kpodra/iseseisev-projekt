@@ -1,6 +1,6 @@
 Raamaturiiul
 ======
-Autorid: Kati Põdra & 
+Autorid: Kati Põdra & Sten Muinast
 
 ### Ekraanitõmmis Rakendusest
 
