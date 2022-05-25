@@ -5,14 +5,16 @@ Autorid: Kati Põdra & Sten Muinast
 ### Ekraanitõmmis Rakendusest
 
 ![](screenshot.png)
+![](bookshelf.png)
 
 ### Rakenduse Funktsionaalsuse Kirjeldus
 
-Rakendus koosneb kolmest peamisest funktsionaalsest komponendist.
+Rakendus koosneb neljast peamisest funktsionaalsest komponendist.
 
 - Loo raamatu sissekanne
 - Muutke raamatu andmeid ja lugemise edenemist
 - Raamatu kirje kustutamine
+- Tagasiside väljade täitmine
 
 Koostati ka kaks nimekirja koos raamatute kuvamisega, üks aktiivse lugemise ja teine ​​loetud raamatute jaoks.
 
